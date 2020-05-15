@@ -28,7 +28,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     public static final String EXTRA_URL = "imageUrl";
-    private final String JSON_URL = "https://api.thecatapi.com/v1/images/search?limit=3";
+    private final String JSON_URL = "https://api.thecatapi.com/v1/images/search?limit=13";
 
 
     private RecyclerView mRecyclerView;
